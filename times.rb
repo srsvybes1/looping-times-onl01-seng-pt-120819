@@ -1,6 +1,6 @@
-def using_times(times)
+def using_times
 
-7.times do
+7.using_times do
   puts "Winggardium Leviosa"
 end
 end
